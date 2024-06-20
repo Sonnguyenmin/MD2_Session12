@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8caf222f-cc8f-4b9a-9379-b12ab30eb1cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session11_Stack_Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kieu_queue/Kieu_queue_co_san.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kieu_queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai1/dao_nguoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai2/Stack_Rong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai3/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap/bai8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baithuchanh/bth01/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baithuchanh/bth01/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baithuchanh/bth02/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baithuchanh/bth02/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baithuchanh/bth02/Node.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2i2G7DTAg8uBmPwYvtj2c6VaXKm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GenericStackClient.executor": "Run",
+    "Application.LinkedListQueueClient.executor": "Debug",
+    "Application.Palindrome.executor": "Run",
+    "Application.Stack_Rong.executor": "Run",
+    "Application.dao_nguoc.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nguye/IdeaProjects/MD2_Sesion13",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Stack_Rong">
+    <configuration name="GenericStackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baithuchanh.bth01.GenericStackClient" />
+      <module name="Session11_Stack_Queue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baithuchanh.bth01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListQueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baithuchanh.bth02.LinkedListQueueClient" />
+      <module name="Session11_Stack_Queue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baithuchanh.bth02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap.bai3.Palindrome" />
+      <module name="Session11_Stack_Queue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap.bai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack_Rong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap.bai2.Stack_Rong" />
+      <module name="Session11_Stack_Queue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap.bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dao_nguoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap.bai1.dao_nguoc" />
+      <module name="Session11_Stack_Queue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap.bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Stack_Rong" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.dao_nguoc" />
+        <item itemvalue="Application.LinkedListQueueClient" />
+        <item itemvalue="Application.GenericStackClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8caf222f-cc8f-4b9a-9379-b12ab30eb1cc" name="Changes" comment="" />
+      <created>1718681088974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718681088974</updated>
+      <workItem from="1718681090053" duration="11465000" />
+      <workItem from="1718716641739" duration="1458000" />
+      <workItem from="1718779504939" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baithuchanh/bth02/LinkedListQueueClient.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
